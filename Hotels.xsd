@@ -25,8 +25,7 @@
     <xs:complexType>
       <xs:sequence>
         <xs:element name="Hotel" type="HotelType" minOccurs="1" maxOccurs="unbounded" />
-      </T-sequence>
-    </xs:complexType>
+      </xsC-sequence> </xs:complexType>
   </xs:element>
 
 </xs:schema>
