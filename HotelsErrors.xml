@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Hotel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-       xsi:noNamespaceSchemaLocation="Hotels.xsd">
-  
+       xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/srikanth-57/cse445_a4/main/Hotels.xsd">
   <Hotel Rating="4.2">
     <Name>Westin</Name>
     <Phone>480-968-8885</Phone>
     <Phone>800-937-8461</Phone>
-    
     <Address>
       <Number>11</Number>
       <Street>E.7th St</Street>
@@ -14,11 +12,9 @@
       <State>AZ</State>
       <Zip>85281</Zip>
     </Hotel>
-
   <Hotel>
     <Name>Hyatt Regency</Name>
     <Name>A Second Name</Name>
-    
     <Address NearestAirport="Sky Harbor">
       <Number>122</Number>
       <Street>N 2nd St</Street>
@@ -27,5 +23,4 @@
       <Zip>85004</Zip>
     </Address>
   </Hotel>
-
-</Hotel> ```
+</Hotel>
