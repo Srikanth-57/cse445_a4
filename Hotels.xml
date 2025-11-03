@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-        xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/srikanth-57/cse445_a4/main/Hotels.xsd?v=3">
-  
+        xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/srikanth-57/cse445_a4/main/Hotels.xsd">
   <Hotel Rating="4.2">
     <Name>Westin</Name>
     <Phone>480-968-8885</Phone>
@@ -14,7 +13,6 @@
       <Zip>85281</Zip>
     </Address>
   </Hotel>
-
   <Hotel>
     <Name>Hyatt Regency</Name>
     <Phone>602-252-1234</Phone>
@@ -26,7 +24,6 @@
       <Zip>85004</Zip>
     </Address>
   </Hotel>
-
   <Hotel Rating="4.5">
     <Name>Sheraton Phoenix Downtown</Name>
     <Phone>602-262-2500</Phone>
@@ -39,7 +36,6 @@
       <Zip>85004</Zip>
     </Address>
   </Hotel>
-  
   <Hotel Rating="4.0">
     <Name>Marriott Tempe at The Buttes</Name>
     <Phone>602-225-9000</Phone>
@@ -51,7 +47,6 @@
       <Zip>85282</Zip>
     </Address>
   </Hotel>
-
   <Hotel>
     <Name>Hilton Garden Inn Scottsdale</Name>
     <Phone>480-515-4944</Phone>
@@ -63,7 +58,6 @@
       <Zip>85255</Zip>
     </Address>
   </Hotel>
-
   <Hotel Rating="4.8">
     <Name>Four Seasons Resort Scottsdale</Name>
     <Phone>480-515-5700</Phone>
@@ -75,7 +69,6 @@
       <Zip>85262</Zip>
     </Address>
   </Hotel>
-
   <Hotel Rating="4.3">
     <Name>W Scottsdale</Name>
     <Phone>480-970-2100</Phone>
@@ -87,7 +80,6 @@
       <Zip>85251</Zip>
     </Address>
   </Hotel>
-
   <Hotel>
     <Name>Renaissance Phoenix Downtown</Name>
     <Phone>602-252-7777</Phone>
@@ -100,7 +92,6 @@
       <Zip>85004</Zip>
     </Address>
   </Hotel>
-
   <Hotel Rating="3.9">
     <Name>Embassy Suites by Hilton</Name>
     <Phone>602-222-1111</Phone>
@@ -112,7 +103,6 @@
       <Zip>85016</Zip>
     </Address>
   </Hotel>
-
   <Hotel>
     <Name>AC Hotel by Marriott Phoenix</Name>
     <Phone>602-258-1771</Phone>
@@ -124,7 +114,6 @@
       <Zip>85004</Zip>
     </Address>
   </Hotel>
-
   <Hotel Rating="4.1">
     <Name>Aloft Tempe</Name>
     <Phone>480-621-3300</Phone>
@@ -136,8 +125,4 @@
       <Zip>85281</Zip>
     </Address>
   </Hotel>
-
 </Hotels>
-
-
-
